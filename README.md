@@ -2,9 +2,9 @@
 
 1- **Clone the Repository**:
 
-Open your terminal or command prompt.
+Open terminal or command prompt.
 
-Clone the repository using the following command:
+Clone the repository using the command:
 
 git clone  https://github.com/Muhammafayyaz/implementation-of-stack-and-queue-using-LinkList-in-pytrhon
 
@@ -15,13 +15,14 @@ cd implementation of stack and queue using Linklist
 Navigate to the directory where the stack implementation file `implementation Stack using (LinkList).py` is located.
 
 Run the stack program using Python:
-python Stack_using_LinkList.py
+python implementation Stack using (LinkList).py
 
 3- **Run the Queue Implementation**:
 
 Navigate to the directory where the queue implementation file `implement queue using(Linklist).py` is located.
 
 Run the queue program using Python:
+python implement queue using(Linklist).py
 
 ## Purpose of the Code
 
